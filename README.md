@@ -1,2 +1,3 @@
 # fave-desserts
-Repro Lab exercise Leaf
+Exercise Leaf Lab
+- Renata, ice cream
